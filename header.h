@@ -1,5 +1,5 @@
 #pragma once
-class animal{
+class Animal{
 private:
 	std::string name;
 	std::string cellType;
